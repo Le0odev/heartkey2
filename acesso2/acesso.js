@@ -46,7 +46,7 @@ if(usuario == "rebeca" && senha == "1612"){
     setTimeout(() => {
 
         
-        window.location.replace("http://127.0.0.1:5500/error.html");
+        window.location.replace("https://heartkey2-rdgv.vercel.app/error.html");
 
         }, 500);
 
