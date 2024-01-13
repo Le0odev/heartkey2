@@ -36,7 +36,7 @@ if(usuario == "rebeca" && senha == "1612"){
     setTimeout(() => {
 
     
-    window.location.replace("https://heartkey.vercel.app/home/home.html");
+    window.location.replace("/home/home.html");
     }, 500);
     
 } else{
@@ -46,7 +46,7 @@ if(usuario == "rebeca" && senha == "1612"){
     setTimeout(() => {
 
         
-        window.location.replace("https://heartkey.vercel.app/error/error.html");
+        window.location.replace("/error/error.html");
 
         }, 500);
 
